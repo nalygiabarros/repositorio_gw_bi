@@ -21,6 +21,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" height="40"/>
 </p>
 
-<h3>Durante o período do estágio, me foi disponibilizado o curso e após, a retirada da certificação</h3>
-<h4> Scrum Foundation Professional Certification - SFPC </h4>
+<h3>Durante o período do estágio, me foi disponibilizado o curso e após, a retirada da certificação:</h3>
+<h2> Scrum Foundation Professional Certification - SFPC </h2>
 <h3>Com validade de 3 anos</h3>
