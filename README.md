@@ -1,5 +1,5 @@
 <h3><a href="https://nalygiabarros.github.io/">
-   <img alt="Nalygia Barros" src="https://readme-typing-svg.herokuapp.com/?lines=Arquivos+relacionados+aos+trabalhos;desenvolvidos+durantes+o;Estágio+em+BI+na;GW+Sistemas&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a> 
+   <img alt="Nalygia Barros" src="https://readme-typing-svg.herokuapp.com/?lines=Arquivos+relacionados+aos+trabalhos;desenvolvidos+durantes+o+Estágio+em+BI;na+GW+Sistemas&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a> 
   </h3>
 
 <h3>Todos os arquivos estão com suas versões origninais e telas duplicadas com versões atualizadas feitas após leitura do livro Storytelling com Dados (Cole Nussbaumer Knaflic)</h3>
@@ -22,5 +22,5 @@
 </p>
 
 <h3>Durante o período do estágio, me foi disponibilizado o curso e após, a retirada da certificação</h3>
-## Scrum Foundation Professional Certification - SFPC
+<h4> Scrum Foundation Professional Certification - SFPC </h4>
 <h3>Com validade de 3 anos</h3>
