@@ -8,7 +8,7 @@
 
 <h3>Estágio iniciado em Setembro de 2024 e seguindo de forma contínua e plena até o presente momento com desenvolvimento de Dashboards voltados à painéis logísticos para transportadoras</h3>
 
-<h3>Linguagens e Ferramentas Utilizadas</h3>
+<h3>Linguagens e Ferramentas Utilizadas:</h3>
 <p>
 <!-- Power Bi -->
    <a href="https://github.com/nalygiabarros/nalygiabarros.github.io" > 
@@ -22,5 +22,5 @@
 </p>
 
 <h3>Durante o período do estágio, me foi disponibilizado o curso e após, a retirada da certificação:</h3>
-<h2> Scrum Foundation Professional Certification - SFPC </h2>
+<h3> :mortar_board: Scrum Foundation Professional Certification - SFPC </h3>
 <h3>Com validade de 3 anos</h3>
