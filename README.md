@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://nalygiabarros.github.io/">
+<h3><a href="https://nalygiabarros.github.io/">
    <img alt="Nalygia Barros" src="https://readme-typing-svg.herokuapp.com/?lines=Arquivos+relacionados+aos+trabalhos+desenvolvidos+durantes+o+Estágio+em+BI+na+GW+Sistemas&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a> 
   </h3>
 
